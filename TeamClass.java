@@ -2,9 +2,9 @@ package classesobj;
 
 public class TeamClass {
 
-	private String name;
-	private String city;
-	private String division;
+	public String name;
+	public String city;
+	public String division;
 	TeamClass(){
 		
 	}
