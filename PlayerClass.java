@@ -3,9 +3,9 @@ package classesobj;
 public class PlayerClass extends TeamClass {
 
 	
-	private String name;
-	private int jerseyno;
-	private String position;
+	public String name;
+	public int jerseyno;
+	public String position;
 	
 	PlayerClass(String name,int jno,String pos){
 		
